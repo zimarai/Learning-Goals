@@ -27,3 +27,15 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
 
  
  [Reviews, notes](https://tapaswenipathak.wordpress.com/category/reading/)
+ 
+ 
+ ### Open Source Projects / Orgs (*ambitious list, not very soon*)
+ - [ ] [Django](https://github.com/django/django)
+ - [ ] Python
+ - [ ] [PyBee](https://github.com/pybee)
+ - [ ] Git
+ - [ ] Linux Kernel (More useful patches)
+ 
+ 
+ 
+
