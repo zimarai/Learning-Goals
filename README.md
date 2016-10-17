@@ -21,5 +21,9 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
  - [ ] [Programming and Programming Languages](http://papl.cs.brown.edu/2014/index.html)
  - [ ] [Think Python by Allen B. Downey](http://greenteapress.com/wp/think-python/)
  - [ ] [A Python Book: Beginning Python, Advanced Python, and Python Exercises](http://www.davekuhlman.org/python_book_01.html)
+ - [ ] [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf)
+ - [ ] [Compiling Techniques](http://www.chilton-computing.org.uk/acl/literature/books/compilingtechniques/overview.htm)
+ - [ ] [Linkers and Loaders](http://www.iecc.com/linker/)
+
  
  [Reviews, notes](https://tapaswenipathak.wordpress.com/category/reading/)
