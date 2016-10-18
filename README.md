@@ -24,17 +24,30 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
  - [ ] [Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf)
  - [ ] [Compiling Techniques](http://www.chilton-computing.org.uk/acl/literature/books/compilingtechniques/overview.htm)
  - [ ] [Linkers and Loaders](http://www.iecc.com/linker/)
+ - [ ] [The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer](http://www.amazon.in/Thrilling-Adventures-Lovelace-Babbage-Computer/dp/0141981539?ie=UTF8&redirect=true&ref_=ya_st_dp_summary)
 
  
  [Reviews, notes](https://tapaswenipathak.wordpress.com/category/reading/)
  
  
- ### Open Source Projects / Orgs (*ambitious list, not very soon*)
+ ### Open Source Projects / Orgs (\*)
  - [ ] [Django](https://github.com/django/django)
  - [ ] Python
  - [ ] [PyBee](https://github.com/pybee)
  - [ ] Git
  - [ ] Linux Kernel (More useful patches)
+ 
+ ### Writing
+ - [ ] Publish work of Outreachy Internship on LWN
+ - [ ] Blog (will be about the books I am reading for few months)
+ - [ ] At least one technical answer on Quora per week. 
+ - [ ] Update once a week : [Good Reads for Humans](https://github.com/tapasweni-pathak/Good-Reads-For-Humans)
+ 
+ 
+ 
+ 
+ 
+ * ambitious list, not very soon
  
  
  
