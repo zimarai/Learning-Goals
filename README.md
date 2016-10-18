@@ -30,14 +30,14 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
  [Reviews, notes](https://tapaswenipathak.wordpress.com/category/reading/)
  
  
- ### Open Source Projects / Orgs (\*)
+### Open Source Projects / Orgs (\*)
  - [ ] [Django](https://github.com/django/django)
  - [ ] Python
  - [ ] [PyBee](https://github.com/pybee)
  - [ ] Git
  - [ ] Linux Kernel (More useful patches)
  
- ### Writing
+### Writing
  - [ ] Publish work of Outreachy Internship on LWN
  - [ ] Blog (will be about the books I am reading for few months)
  - [ ] At least one technical answer on Quora per week. 
@@ -47,8 +47,8 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
  
  
  
- \* ambitious list, not very soon
- 
+\* ambitious list, not very soon
+
  
  
 
