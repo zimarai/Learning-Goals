@@ -47,7 +47,7 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
  
  
  
- * ambitious list, not very soon
+ \* ambitious list, not very soon
  
  
  
