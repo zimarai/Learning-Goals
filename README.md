@@ -50,15 +50,22 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
 - [ ] Happy Moments Web App
 - [ ] Twitter Bot for Systers Org issues
 - [ ] Slack Bot
-- [ ] Quora Extension/Bot (No Idea how I am gonna do this!)
+- [ ] Quora Extension/Bot\*\*
+- [ ] Easy chrome extension which mails if prices dip on Snapdeal Products For Mommy :rabbit:
+- [ ] [Learn Git using Gifs](https://github.com/tapasweni-pathak/GitGIFs)
+- [ ] Learn feminism (funny, meaningful things) :sparkles:
 
 
+
+
+
  
  
  
  
  
-\* ambitious list, not very soon
+\* ambitious list, not very soon.
+\*\* No Idea how I will be doing it.
 
  
  
