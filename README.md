@@ -54,7 +54,12 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
 - [ ] Easy chrome extension which mails if prices dip on Snapdeal Products For Mommy :rabbit:
 - [ ] [Learn Git using Gifs](https://github.com/tapasweni-pathak/GitGIFs)
 - [ ] Learn feminism (funny, meaningful things) :sparkles:
+- [ ] Generate image from text to tweet
+- [ ] [QTopic API](https://github.com/tapasweni-pathak/QTopic-API)
 
+### Competitive Programming\*
+- [ ] Get that \<200 rank back on CodeChef.
+- [ ] CodeForces :peach:, TopCoder :lemon:
 
 
 
@@ -64,7 +69,8 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
  
  
  
-\* ambitious list, not very soon.
+\* ambitious, not very soon.
+
 \*\* No Idea how I will be doing it.
 
  
