@@ -42,6 +42,17 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
  - [ ] Blog (will be about the books I am reading for few months)
  - [ ] At least one technical answer on Quora per week. 
  - [ ] Update once a week : [Good Reads for Humans](https://github.com/tapasweni-pathak/Good-Reads-For-Humans)
+ - [ ] Update once in two weeks : [Notable-Indian-Women](https://github.com/tapasweni-pathak/Notable-Indian-Women)
+ - [ ] Write Summaries (Paper, SO answers, books on Quora and/or on blog.)
+ 
+ 
+### Projects
+- [ ] Happy Moments Web App
+- [ ] Twitter Bot for Systers Org issues
+- [ ] Slack Bot
+- [ ] Quora Extension/Bot (No Idea how I am gonna do this!)
+
+
  
  
  
