@@ -57,6 +57,7 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
 - [ ] Learn feminism (funny, meaningful things) :sparkles:
 - [ ] Generate image from text to tweet
 - [ ] [QTopic API](https://github.com/tapasweni-pathak/QTopic-API)
+- [ ] REST API for [HTTP Statuses](https://httpstatuses.com), return GIFs.
 
 ### Competitive Programming\*
 - [ ] Get that \<200 rank back on CodeChef.
