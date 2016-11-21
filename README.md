@@ -58,6 +58,7 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
 - [ ] Generate image from text to tweet
 - [ ] [QTopic API](https://github.com/tapasweni-pathak/QTopic-API)
 - [ ] REST API for [HTTP Statuses](https://httpstatuses.com), return GIFs.
+- [ ] Python wrapper for [this](https://github.com/mangrep/ifsc-rest-api).
 
 ### Competitive Programming\*
 - [ ] Get that \<200 rank back on CodeChef.
