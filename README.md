@@ -60,6 +60,13 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
 - [ ] REST API for [HTTP Statuses](https://httpstatuses.com), return GIFs.
 - [ ] Python wrapper for [this](https://github.com/mangrep/ifsc-rest-api).
 - [ ] Filter GIFs from the tweets of a Twitter Account (urls/store/download)\*\*.
+- [ ] Download gifs and videos from Twitter stars and unstar when done.
+       
+      1. Get all the stars from my profile
+      2. Add qq at the start of the URL of starred tweet
+      3. Use bs4 for this link and scrap video/gif URL.
+      4. Download and store.
+      5. Unstar the starred tweet.
 
 ### Competitive Programming\*
 - [ ] Get that \<200 rank back on CodeChef.
