@@ -60,6 +60,7 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
 - [ ] REST API for [HTTP Statuses](https://httpstatuses.com), return GIFs.
 - [ ] Python wrapper for [this](https://github.com/mangrep/ifsc-rest-api).
 - [ ] Filter GIFs from the tweets of a Twitter Account (urls/store/download)\*\*.
+- [ ] [This](http://everyonehasaname.com/) for Indian names.
 - [ ] Download gifs and videos from Twitter stars and unstar when done.
        
       1. Get all the stars from my profile
@@ -68,7 +69,7 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
       4. Download and store.
       5. Unstar the starred tweet.
       
- - [ ] [This](http://everyonehasaname.com/) for Indian names.
+ 
 
 ### Competitive Programming\*
 - [ ] Get that \<200 rank back on CodeChef.
