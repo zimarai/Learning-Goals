@@ -61,6 +61,7 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
 - [ ] Python wrapper for [this](https://github.com/mangrep/ifsc-rest-api).
 - [ ] Filter GIFs from the tweets of a Twitter Account (urls/store/download)\*\*.
 - [ ] [This](http://everyonehasaname.com/) for Indian names.
+- [ ] Chrome extension to replace some image all over the web from something else.
 - [ ] Download gifs and videos from Twitter stars and unstar when done.
        
       1. Get all the stars from my profile
