@@ -72,9 +72,8 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
       
  
 
-### Competitive Programming\*
-- [ ] Get that \<200 rank back on CodeChef.
-- [ ] CodeForces :peach:, TopCoder :lemon:
+### Competitive Programming
+- [ ] Learn algorithms and data structures through competitive programming.
 
 
 
