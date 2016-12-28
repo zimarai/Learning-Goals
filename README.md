@@ -26,6 +26,7 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
  - [ ] [Linkers and Loaders](http://www.iecc.com/linker/)
  - [ ] [The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer](http://www.amazon.in/Thrilling-Adventures-Lovelace-Babbage-Computer/dp/0141981539?ie=UTF8&redirect=true&ref_=ya_st_dp_summary)
  - [ ] [Thinking in C++](http://www.amazon.in/Thinking-Introduction-Standard-Bruce-Eckel/dp/0139798099)
+ - [ ] [The little book about OS development](http://littleosbook.github.io/)
 
  
  [Reviews, notes](https://tapaswenipathak.wordpress.com/category/reading/)
