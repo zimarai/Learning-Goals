@@ -2,10 +2,8 @@
 Reading, programming projects, events, speaking, writing. Basically learning goals made public. :)
 
 ### Reading
- - [ ] [Expert C Programming](http://www.amazon.in/Expert-Programming-Peter-van-Linden/dp/0131774298)
- - [ ] [Two Scoops of Django](https://www.twoscoopspress.com/products/two-scoops-of-django-1-8)
- - [X] Problem Solving with Algorithms and Data Structures by Brad Miller, David Ranum
- - [X] [Dive Into Python](http://www.diveintopython.net/)
+ - [ ] Problem Solving with Algorithms and Data Structures by Brad Miller, David Ranum
+ - [ ] [Dive Into Python](http://www.diveintopython.net/)
  - [ ] [The Little Book of Semaphores](http://greenteapress.com/wp/semaphores/)
  - [ ] [A First Course in Probability](https://www.amazon.com/gp/product/013603313X/ref=as_li_tl?ie=UTF8&tag=abroaview-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=013603313X&linkId=ba9a3635504a6aadc9f40d3faf3c8785)
  - [ ] [The Algorithm Design Manual](https://www.amazon.com/gp/product/1848000693/ref=as_li_tl?ie=UTF8&tag=abroaview-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1848000693&linkId=59bca0c3da96693a0c5384c97f6e59bb)
