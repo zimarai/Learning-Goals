@@ -4,11 +4,12 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
 ### Reading
  - [ ] Problem Solving with Algorithms and Data Structures by Brad Miller, David Ranum
  - [ ] [Dive Into Python](http://www.diveintopython.net/)
+ - [ ] Javascript, the Good Parts
+ - [ ] [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
+ - [ ] Head First, Design Patterns
  - [ ] [The Little Book of Semaphores](http://greenteapress.com/wp/semaphores/)
  - [ ] [A First Course in Probability](https://www.amazon.com/gp/product/013603313X/ref=as_li_tl?ie=UTF8&tag=abroaview-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=013603313X&linkId=ba9a3635504a6aadc9f40d3faf3c8785)
  - [ ] [The Algorithm Design Manual](https://www.amazon.com/gp/product/1848000693/ref=as_li_tl?ie=UTF8&tag=abroaview-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1848000693&linkId=59bca0c3da96693a0c5384c97f6e59bb)
- - [ ] [Snipers, Shills, and Sharks: eBay and Human Behavior](https://www.amazon.com/gp/product/0691127131/ref=as_li_tl?ie=UTF8&tag=abroaview-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0691127131&linkId=a0ed27b464ee65f5551f60e3a796cf26)
- - [ ] [30 Women in Power: Their Voices, Their Stories](http://www.amazon.in/30-Women-Power-Voices-Stories/dp/8129135809?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=49e04210-7724-42c6-8a2f-bb17b241cbc5)
  - [ ] [The Life Tree](http://www.amazon.in/Life-Tree-P-J-Abdul-Kalam/dp/0143425846?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=49e04210-7724-42c6-8a2f-bb17b241cbc5)
  - [ ] [Quiet](http://www.amazon.in/Quiet-power-introverts-world-talking/dp/0141029196?tag=googinhydr18418-21&tag=googinkenshoo-21&ascsubtag=49e04210-7724-42c6-8a2f-bb17b241cbc5)
  - [ ] [Behind the Beautiful Forevers](http://www.behindthebeautifulforevers.com/)
