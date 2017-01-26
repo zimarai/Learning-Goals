@@ -7,6 +7,10 @@ Reading, programming projects, events, speaking, writing. Basically learning goa
  - [ ] Javascript, the Good Parts
  - [ ] [Cracking the Coding Interview: 189 Programming Questions and Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
  - [ ] Head First, Design Patterns
+ - [ ] Introduction to Algorithms. Cormen, Leiserson , Rivest, Stein, 1990
+ - [ ] Estructura de datos y organización de archivos. Mary Loomis
+ - [ ] Ingeniería del Software, un enfoque práctico. R. Pressman
+ - [ ] Introduction to the Theory of Computation. Sipser, 2006
  - [ ] [The Little Book of Semaphores](http://greenteapress.com/wp/semaphores/)
  - [ ] [A First Course in Probability](https://www.amazon.com/gp/product/013603313X/ref=as_li_tl?ie=UTF8&tag=abroaview-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=013603313X&linkId=ba9a3635504a6aadc9f40d3faf3c8785)
  - [ ] [The Algorithm Design Manual](https://www.amazon.com/gp/product/1848000693/ref=as_li_tl?ie=UTF8&tag=abroaview-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1848000693&linkId=59bca0c3da96693a0c5384c97f6e59bb)
